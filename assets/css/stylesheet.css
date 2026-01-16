@@ -1,7 +1,7 @@
 div#buttons {
   position: absolute;
   left: 50%;
-  margin-left: -150px;
+  margin-left: -170px;
   top: 70%;
 }
 button#button1 {
@@ -12,6 +12,7 @@ button#button1 {
   background-position: center;
   width: 140px;
   height: 140px;
+  margin-right: 50px;
   border: none;
   cursor: pointer;
   transition: ease-in-out 0.1s background-image, ease-in-out 0.15s filter;
