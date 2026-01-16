@@ -9,6 +9,7 @@ button#button1 {
   background-image: url(../images/button1.svg);
   background-repeat: no-repeat;
   background-size: 120px;
+  background-position: center;
   width: 140px;
   height: 140px;
   border: none;
@@ -24,6 +25,7 @@ button#button2 {
   background-image: url(../images/button2.svg);
   background-repeat: no-repeat;
   background-size: 120px;
+  background-position: center;
   width: 140px;
   height: 140px;
   border: none;
